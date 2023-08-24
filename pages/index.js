@@ -1,10 +1,10 @@
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
-import Heart from '@/Components/Heart'
-import Navbar from '@/Components/Navbar'
-import MidCard from '@/Components/MidCard'
-import Features from '@/Components/Features'
-import Scores from '@/Components/Scores'
+import Heart from '@/components/Heart'
+import Navbar from '@/components/Navbar'
+import MidCard from '@/components/MidCard'
+import Features from '@/components/Features'
+import Scores from '@/components/Scores'
 
 const inter = Inter({ subsets: ['latin'] })
 
